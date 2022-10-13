@@ -191,7 +191,7 @@ Agrega más complejidad para el usuario.
 
 .Ventajas en tener el disco particionado en varias particiones:
 
-- Si ocurre un error/problema en una de ellas, las demás no se verán afectadas.oPoder tener diferentes sistemas operativos en una sola máquina, totalmente independientes unos de otros.
+- Si ocurre un error/problema en una de ellas, las demás no se verán afectadas. Poder tener diferentes sistemas operativos en una sola máquina, totalmente independientes unos de otros.
 Poder tener sus archivos de datos en particiones totalmente independientes.oPoder borrar/cambiar el contenido de una partición, sin que esto afecte a las demás.
 Aumentar la seguridad del sistema.
 
